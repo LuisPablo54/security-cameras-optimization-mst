@@ -1,0 +1,7 @@
+osmnx==2.0.6
+networkx==3.5
+matplotlib
+numpy
+pandas
+contextily
+heapq
