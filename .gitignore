@@ -1,0 +1,27 @@
+# --- OSMnx & GeoData Cache ---
+# Bloquea la carpeta de caché por defecto de OSMnx
+cache/
+# Bloquea archivos de datos pesados que no deben ir al repo
+*.graphml
+*.geojson
+*.shp
+
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+
+# --- Entornos Virtuales ---
+.venv/
+venv/
+env/
+bin/
+lib/
+
+# --- Salidas de Visualización (Opcional) ---
+# Si generas renders pesados o PDFs de tus mapas MSE
+outputs/
+figures/*.png
+figures/*.pdf

@@ -20,7 +20,7 @@
 <key id="d2" for="graph" attr.name="crs" attr.type="string"/>
 <key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
 <key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
-<graph edgedefault="directed"><data key="d0">2025-11-18 21:09:37</data>
+<graph edgedefault="directed"><data key="d0">2026-01-04 19:09:20</data>
 <data key="d1">OSMnx 2.0.6</data>
 <data key="d2">epsg:4326</data>
 <data key="d3">True</data>
@@ -13853,7 +13853,7 @@
 <edge source="348354670" target="348362130" id="0">
   <data key="d8">[835867025, 835867026, 837890845]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Hermanos Aldama</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -13888,7 +13888,7 @@
 <edge source="348356146" target="348355512" id="0">
   <data key="d8">[835867028, 835867029]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Hermanos Aldama</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -16999,7 +16999,7 @@
 <edge source="348691047" target="348618181" id="0">
   <data key="d8">[836495688, 31324972]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Justo Sierra', 'Avenida 20 de Enero']</data>
+  <data key="d11">['Avenida 20 de Enero', 'Calle Justo Sierra']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">293.69577485462287</data>
@@ -19896,7 +19896,7 @@
 <edge source="349282749" target="349285487" id="0">
   <data key="d8">[31360469, 31359534]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Jordán', 'Calle Wagner']</data>
+  <data key="d11">['Calle Wagner', 'Calle Jordán']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">162.13968132879484</data>
@@ -20170,7 +20170,7 @@
 <edge source="349289462" target="349291355" id="1">
   <data key="d8">[203438848, 31360399]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Granados', 'Calle Constantino']</data>
+  <data key="d11">['Calle Constantino', 'Calle Granados']</data>
   <data key="d12">False</data>
   <data key="d13">[False, True]</data>
   <data key="d14">110.28173097450514</data>
@@ -22397,7 +22397,7 @@
   <data key="d8">[32402084, 868545725, 32401862]</data>
   <data key="d9">residential</data>
   <data key="d10">1</data>
-  <data key="d11">['Calle Florencio Antillón', 'Calle Colima']</data>
+  <data key="d11">['Calle Colima', 'Calle Florencio Antillón']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">373.00738574582056</data>
@@ -26344,7 +26344,7 @@
 <edge source="370485039" target="370481118" id="0">
   <data key="d8">[32895841, 32895820]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Panamá', 'Calle Sinaloa']</data>
+  <data key="d11">['Calle Sinaloa', 'Calle Panamá']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">172.60402773030683</data>
@@ -30329,7 +30329,7 @@
 <edge source="485143942" target="485143952" id="0">
   <data key="d8">[40237163, 129810718]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Privada Pino', 'Calle Pino']</data>
+  <data key="d11">['Calle Pino', 'Privada Pino']</data>
   <data key="d12">False</data>
   <data key="d13">False</data>
   <data key="d14">89.08742934931959</data>
@@ -30338,7 +30338,7 @@
 <edge source="485143952" target="485143942" id="0">
   <data key="d8">[40237163, 129810718]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Privada Pino', 'Calle Pino']</data>
+  <data key="d11">['Calle Pino', 'Privada Pino']</data>
   <data key="d12">False</data>
   <data key="d13">True</data>
   <data key="d14">89.08742934931959</data>
@@ -31908,7 +31908,7 @@
 <edge source="494613898" target="494615424" id="0">
   <data key="d8">[40717395, 40717423]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Iztaccíhuatl', 'Andador Popocatepetl']</data>
+  <data key="d11">['Andador Popocatepetl', 'Calle Iztaccíhuatl']</data>
   <data key="d12">False</data>
   <data key="d13">[False, True]</data>
   <data key="d14">168.97115155372666</data>
@@ -32055,7 +32055,7 @@
 <edge source="494615424" target="494613898" id="0">
   <data key="d8">[40717395, 40717423]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Iztaccíhuatl', 'Andador Popocatepetl']</data>
+  <data key="d11">['Andador Popocatepetl', 'Calle Iztaccíhuatl']</data>
   <data key="d12">False</data>
   <data key="d13">[False, True]</data>
   <data key="d14">168.97115155372668</data>
@@ -33442,7 +33442,7 @@
 <edge source="501963140" target="501936478" id="0">
   <data key="d8">[957106810, 41131023]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Laguo de Cuyutlan', 'Arroyo Mariches']</data>
+  <data key="d11">['Arroyo Mariches', 'Laguo de Cuyutlan']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">182.72158140735397</data>
@@ -33610,7 +33610,7 @@
 <edge source="501989102" target="501992903" id="0">
   <data key="d8">[41131049, 41131251]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Lago de Pátzcuaro', '2da Privada Laguna Seca']</data>
+  <data key="d11">['2da Privada Laguna Seca', 'Calle Lago de Pátzcuaro']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">191.8668320500603</data>
@@ -35739,7 +35739,7 @@
 <edge source="2128473688" target="485142784" id="0">
   <data key="d8">[40237649, 834784125]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Privada José de María Yermo y Pages', 'Calle Álamo']</data>
+  <data key="d11">['Calle Álamo', 'Privada José de María Yermo y Pages']</data>
   <data key="d12">False</data>
   <data key="d13">True</data>
   <data key="d14">66.59767714164467</data>
@@ -36076,7 +36076,7 @@
 <edge source="2134546217" target="1701671638" id="0">
   <data key="d8">[1368684356, 836230597]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Adolfo López Mateos</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -37689,7 +37689,7 @@
 <edge source="2309252569" target="7027023819" id="0">
   <data key="d8">[837919580, 836435157]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Adolfo López Mateos</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -37880,7 +37880,7 @@
 <edge source="2309816889" target="2309816895" id="0">
   <data key="d8">[806893675, 748888829, 748888830, 222008735]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Palo Cuarto', 'Calle Acapulco']</data>
+  <data key="d11">['Calle Acapulco', 'Calle Palo Cuarto']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">126.2535795792096</data>
@@ -40431,7 +40431,7 @@
 <edge source="2309909659" target="2309909661" id="0">
   <data key="d8">[222018356, 222018357]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Palmares', 'Calle Palo Verde']</data>
+  <data key="d11">['Calle Palo Verde', 'Palmares']</data>
   <data key="d12">False</data>
   <data key="d13">[False, True]</data>
   <data key="d14">110.0324393775546</data>
@@ -40440,7 +40440,7 @@
 <edge source="2309909661" target="2309909659" id="0">
   <data key="d8">[222018356, 222018357]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Palmares', 'Calle Palo Verde']</data>
+  <data key="d11">['Calle Palo Verde', 'Palmares']</data>
   <data key="d12">False</data>
   <data key="d13">[False, True]</data>
   <data key="d14">110.0324393775546</data>
@@ -42457,7 +42457,7 @@
 <edge source="2358755141" target="2358755145" id="0">
   <data key="d8">[834747129, 834747118]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Juan José Torres Landa</data>
   <data key="d12">True</data>
   <data key="d16">GTO 37</data>
@@ -45261,7 +45261,7 @@
 <edge source="2358763431" target="2358763429" id="0">
   <data key="d8">[836218840, 836218841]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Juan José Torres Landa</data>
   <data key="d12">True</data>
   <data key="d16">GTO 37</data>
@@ -45323,7 +45323,7 @@
 <edge source="2358763436" target="2358763434" id="0">
   <data key="d8">[834747120, 834747116]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Juan José Torres Landa</data>
   <data key="d12">True</data>
   <data key="d16">GTO 37</data>
@@ -45997,7 +45997,7 @@
 <edge source="2359177728" target="2359177813" id="0">
   <data key="d8">[227203305, 227203283]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Jiquilpan', 'Colcomán']</data>
+  <data key="d11">['Colcomán', 'Calle Jiquilpan']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">283.23794031754005</data>
@@ -48723,7 +48723,7 @@
   <data key="d8">[748886976, 748885343]</data>
   <data key="d9">residential</data>
   <data key="d10">2</data>
-  <data key="d11">['Calzada de los Niños Héroes', 'Boulevard Américas']</data>
+  <data key="d11">['Boulevard Américas', 'Calzada de los Niños Héroes']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">92.44249471678003</data>
@@ -51632,7 +51632,7 @@
 <edge source="6739800828" target="370483741" id="0">
   <data key="d8">[32895337, 817888756]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Privada de Anda', 'Calle Yucatán']</data>
+  <data key="d11">['Calle Yucatán', 'Privada de Anda']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">50.542041388903904</data>
@@ -52776,7 +52776,7 @@
 <edge source="7027023819" target="2136725365" id="0">
   <data key="d8">[836228992, 837919577, 837919578]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Adolfo López Mateos</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -54519,7 +54519,7 @@
 <edge source="7813453765" target="348354229" id="0">
   <data key="d8">[31307682, 836470386]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Hermanos Aldama</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
@@ -54859,7 +54859,7 @@
 <edge source="7833114769" target="2358755141" id="0">
   <data key="d8">[840276301, 834747118]</data>
   <data key="d9">primary</data>
-  <data key="d10">['3', '4']</data>
+  <data key="d10">['4', '3']</data>
   <data key="d11">Boulevard Juan José Torres Landa</data>
   <data key="d12">True</data>
   <data key="d16">GTO 37</data>
@@ -55287,7 +55287,7 @@
 <edge source="8046290833" target="2309855940" id="0">
   <data key="d8">[222012085, 751740158]</data>
   <data key="d9">residential</data>
-  <data key="d11">['Calle Plaza San Juan', 'Calle Bosque']</data>
+  <data key="d11">['Calle Bosque', 'Calle Plaza San Juan']</data>
   <data key="d12">True</data>
   <data key="d13">False</data>
   <data key="d14">225.5048297065353</data>
